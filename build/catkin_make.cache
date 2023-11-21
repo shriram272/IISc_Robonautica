@@ -1,0 +1,2 @@
+Robonautica/tortoisebotpromax_description:Robonautica/tortoisebotpromax_firmware:Robonautica/tortoisebotpromax_gazebo:Robonautica/ydlidar_ros:aruco:laser_scan_to_pc:navigation:realsense2_description:realsense_ros_gazebo
+-DCATKIN_DEVEL_PREFIX=/mnt/d/robonot/devel -DCMAKE_INSTALL_PREFIX=/mnt/d/robonot/install -G Unix Makefiles

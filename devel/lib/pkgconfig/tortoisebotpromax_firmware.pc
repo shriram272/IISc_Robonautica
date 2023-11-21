@@ -1,0 +1,8 @@
+prefix=/mnt/d/robonot/devel
+
+Name: tortoisebotpromax_firmware
+Description: Description of tortoisebotpromax_firmware
+Version: 0.0.0
+Cflags: -I/mnt/d/robonot/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

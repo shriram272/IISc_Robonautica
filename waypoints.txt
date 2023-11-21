@@ -1,0 +1,19 @@
+Marker ID: 7, Position: -1689598.65982126,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 5, Position: -1761869.36250148,0.0,0.0, Orientation: 0.0,0.0,
+
+Marker ID: 3, Position: -1890799.07861447,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 2, Position: -1925749.2643007,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 1, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 0, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 4, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 6, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 8, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 9, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 190, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+Marker ID: 74, Position: ,0.0,0.0, Orientation: 0.0,0.0,
+                       
+
+
+
+
+

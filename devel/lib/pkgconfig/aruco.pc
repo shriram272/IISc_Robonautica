@@ -1,0 +1,8 @@
+prefix=/mnt/d/robonot/devel
+
+Name: aruco
+Description: Description of aruco
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
